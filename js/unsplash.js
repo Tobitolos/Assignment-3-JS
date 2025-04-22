@@ -6,7 +6,7 @@ async function searchImages() {
   // Get the search query entered by the user
   const query = document.getElementById('searchQuery').value;
 
-  // documetation page i used ('https://unsplash.com/oauth/applications')
+  // Link to documetation page i used ('https://unsplash.com/documentation') to get the API key
   
 
   // Your Unsplash API access key
